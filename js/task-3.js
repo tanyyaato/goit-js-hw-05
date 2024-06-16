@@ -1,3 +1,4 @@
+"use strict";
 const sortByDescendingFriendCount = (users) =>
   users.toSorted(
     (minFriends, maxFriends) =>
